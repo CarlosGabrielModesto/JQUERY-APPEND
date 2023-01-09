@@ -16,4 +16,4 @@ Isso adicionará um elemento ![image](https://user-images.githubusercontent.com/
  e um elemento ![image](https://user-images.githubusercontent.com/101013294/211378579-b857dd05-3dff-4d60-9047-1f59058a883a.png)
  ao elemento com o ID de "elemento".
 
-Neste portifólio trago um exemplo da utilização do método “.append”.
+Neste portifólio trago um exemplo da utilização do método “.append” num site desenvolvido como exemplo.
